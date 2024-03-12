@@ -1,1 +1,3 @@
 # comprayventas
+
+texto a conciencia
